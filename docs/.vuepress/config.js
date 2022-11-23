@@ -3,11 +3,11 @@ module.exports = {
   description: 'phihashのポートフォリオサイトです',
   /**
    * Extra tags to be injected to the page HTML `<head>`
-   * 
+   *
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    [["link", { rel: "favicon", href: "https://gyazo.com/c7793d955594cbbd9dfe436213b153e6" }],["link", { rel: "apple-touch-icon", href: "https://gyazo.com/c7793d955594cbbd9dfe436213b153e6" }]],
+    [["link", { rel: "shortcut icon", href: "/favicon.png" }],["link", { rel: "apple-touch-icon", href: "/apple-icon.png" }]],
   ],
   themeConfig: {
     nav: [
