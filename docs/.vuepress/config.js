@@ -7,7 +7,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    [["link", { rel: "shortcut icon", href: "/favicon.png" }],["link", { rel: "apple-touch-icon", href: "/apple-icon.png" }]],
+    [["link", { rel: "shortcut icon", href: "/favicon.png" }],["link", { rel: "apple-touch-icon", href: "/apple-touch-icon.png" }]],
   ],
   themeConfig: {
     nav: [
@@ -17,11 +17,15 @@ module.exports = {
       },
       {
         text: 'Twitter',
-        link: 'https://v1.vuepress.vuejs.org'
+        link: 'https://mobile.twitter.com/phihash'
       },
       {
         text: 'About',
         link: '/about/'
+      },
+      {
+        text: 'Link',
+        link: '/link/'
       }
     ],
     sidebar: {
