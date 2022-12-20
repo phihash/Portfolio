@@ -28,6 +28,7 @@ sidebar: auto
 
 ## クリエィティブコーティング
 
-<div>
-<iframe src="https://openprocessing.org/sketch/1727843/embed/" width="640" height="360"></iframe>
+<br />
+<div style="{position: relative; width: 100%;  height:540px; overflow-y:scroll; border:0; -webkit-overflow-scrolling:touch;}">
+<iframe src="https://openprocessing.org/sketch/1727843/embed/" style="{position:absolute;top:0;left:0;width:100%; border:0; height: 100%; }" ></iframe>
 </div>
