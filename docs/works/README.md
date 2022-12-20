@@ -8,6 +8,11 @@ sidebar: auto
 
 ![イメージ写真](/2010s.png)
 
+使用技術: HTML Living Standard,CSS3,JavaScript
+
+静的サイトは基本的に伝えたいことがあるのが前提だという認識があり、特に何かコンテンツを有していなかったので何を作成しようか考えたところ、こんなことがあったなとその年を振り返るサイトがあったらいいなと思って作成しました。
+
+
 ## 簡易テスト
 
 ![イメージ写真](/quiz.png)
@@ -32,3 +37,5 @@ sidebar: auto
 <div style="{position: relative; width: 100%;  height:540px; overflow-y:scroll; border:0; -webkit-overflow-scrolling:touch;}">
 <iframe src="https://openprocessing.org/sketch/1727843/embed/" style="{position:absolute;top:0;left:0;width:100%; border:0; height: 100%; }" ></iframe>
 </div>
+
+
