@@ -42,5 +42,7 @@ JavaScript以外にはPythonを少し触っています。
 
 [Instagram](https://instagram.com/phihash_illust)
 
+[note](https://note.com/phihash)
+
 
 

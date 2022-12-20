@@ -4,9 +4,13 @@ sidebar: auto
 
 # 作品
 
-## 年表
+## 2010s
 
-![イメージ写真](/2010s.png)
+<br>
+
+<a href="https://phihash.github.io/2010s/" target="_blank" rel="noopener" >
+ <img src="/2010s.png" alt="イメージ写真">
+</a>
 
 使用技術: HTML Living Standard,CSS3,JavaScript
 
@@ -15,20 +19,44 @@ sidebar: auto
 
 ## 簡易テスト
 
-![イメージ写真](/quiz.png)
+<br>
+<a href="https://phihash.github.io/Quiz/" target="_blank" rel="noopener" >
+ <img src="/quiz.png" alt="イメージ写真">
+</a>
 
+使用技術: HTML Living Standard,CSS3,JavaScript
 
 ## 単語クイズ
-![イメージ写真](/typing.png)
+<br>
+<a href="https://phihash.github.io/Typing/" target="_blank" rel="noopener" >
+ <img src="/typing.png" alt="イメージ写真">
+</a>
+
+使用技術: HTML Living Standard,CSS3,JavaScript,Micromodal.js
+
 
 ## 略称検索
+<br>
 
-![イメージ写真](/abbr.png)
+
+<a href="https://phihash.github.io/AbbreviationQuiz/" target="_blank" rel="noopener" >
+ <img src="/abbr.png" alt="イメージ写真">
+</a>
+
+使用技術: HTML Living Standard,CSS3,JavaScript
+
+大学の実習などで略称を目にする機会が多くなったので作成しました。
 
 
 ## キャラクターサイト
+<br>
 
-![イメージ写真](/illust.png)
+
+<a href="https://illust.phihash.net" target="_blank" rel="noopener" >
+ <img src="/illust.png" alt="イメージ写真">
+</a>
+
+使用技術: React.js
 
 
 ## クリエィティブコーティング
@@ -38,4 +66,5 @@ sidebar: auto
 <iframe src="https://openprocessing.org/sketch/1727843/embed/" style="{position:absolute;top:0;left:0;width:100%; border:0; height: 100%; }" ></iframe>
 </div>
 
+使用技術: p5.js
 
