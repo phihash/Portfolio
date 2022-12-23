@@ -20,8 +20,8 @@ module.exports = {
   themeConfig: {
     nav: [
       {
-        text: 'Blog',
-        link: '/blog/'
+        text: 'Memo',
+        link: '/memo/'
       },
       {
         text: 'Works',
