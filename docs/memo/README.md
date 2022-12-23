@@ -9,3 +9,6 @@ sidebar: auto
 [Focus](focus.md)
 
 [Reading](reading.md)
+
+[Tab Manager](tab.md)
+
