@@ -12,3 +12,5 @@ sidebar: auto
 
 [Tab Manager](tab.md)
 
+[まとめ](nory.md)
+
