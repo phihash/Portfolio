@@ -59,6 +59,18 @@ sidebar: auto
 使用技術: React.js
 
 
+## done-list
+<br>
+<a href="https://task-list-phihash.firebaseapp.com/" target="_blank" rel="noopener" >
+ <img src="/done-list.png" alt="イメージ写真">
+</a>
+
+使用技術: HTML Living Standard,CSS3,JavaScript
+
+ブラウザのlocalStorageにデータを保存しています。
+
+
+
 ## クリエィティブコーティング
 
 <br />
@@ -67,4 +79,11 @@ sidebar: auto
 </div>
 
 使用技術: p5.js
+
+
+## 今後は
+
+
+自分のしたいことは、CGMのようなWebアプリを作成で、Vanilla JSだけでなく、Node.jsやPython**など**サーバーサイドをメインに勉強したほうがいいなと思っていますが,時間的に余裕がないのでこのままfirebaseやReact.js,Next.jsなどを勉強しようと考えています。TypeScriptも勉強したいです。無理そうですが
+
 
