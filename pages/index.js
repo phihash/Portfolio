@@ -7,6 +7,13 @@ export default function Home() {
       <Head>
         <title>phihash</title>
         <link rel="icon" href="/vercel.svg" />
+        <link rel="apple-touch-icon-precomposed" href="/vercel.svg"></link>
+        <meta property="og:site_name" content="phihash" />
+        <meta property="og:url" content="phihash.net" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="phihash" />
+        <meta property="og:description" content="phihashのポートフォリオサイトです"/>
+        <meta property="og:image" content="/images/hero.png" />
         {/* 本当はだめ */}
       </Head>
 
