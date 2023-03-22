@@ -41,8 +41,9 @@ export default function Home() {
       <h2 class="text-lg title-font font-bold mt-2  tracking-widest">そのほか</h2>
       <p class="leading-relaxed">
       情報系ではなく医療系の大学生です。<br/>
-      Webアプリを作成したくプログラミングをはじめましたが、今は面白そうと思ったことをなんでもしています。(下手の横好き)<br/>
-      JavaScriptを触ることが多いです。Vue.jsとfirestoreで簡易な掲示板サイトを作成したり、趣味で描いてるキャラクターのサイトをReact.jsで作成したりChrome拡張機能つくったりしてます。
+      Webアプリを作成したくプログラミングをはじめました。<br/>
+      JavaScriptを触ることが多く、Vue.jsとfirestoreで簡易な掲示板サイトを作成したり、趣味で描いてるキャラクターのサイトをNext.jsで作成したりChrome拡張機能つくったりと、
+      今は面白そうと思ったことをしています。(下手の横好き)<br/>
           </p>
       </div>
     </div>

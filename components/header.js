@@ -7,12 +7,12 @@ export default function Header() {
     <Link legacyBehavior href="/">
     <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ai ai-Hashtag"><path d="M10 3L6 21"/><path d="M18 3l-4 18"/><path d="M4 8h17"/><path d="M3 16h17"/></svg>
-      <span class="ml-1 text-xl">phihash</span>
+      <span class="ml-1 text-xl font-bold">phihash</span>
     </a>
     </Link>
     <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
-      <Link legacyBehavior href="/scrap"><a class="mr-5 hover:text-gray-900">Scrap</a></Link>
-      <Link legacyBehavior href="/works"><a class="mr-5 hover:text-gray-900">Works</a></Link>
+      <Link legacyBehavior href="/scrap"><a class="font-bold text-gray-900  mr-5 hover:text-gray-900">Scrap</a></Link>
+      <Link legacyBehavior href="/works"><a class="font-bold text-gray-900  mr-5 hover:text-gray-900">Works</a></Link>
     </nav>
 
   </div>
