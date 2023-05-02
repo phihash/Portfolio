@@ -42,8 +42,7 @@ export default function Home() {
       <p class="leading-relaxed">
       情報系ではなく医療系の大学生です。<br/>
       Webアプリを作成したくプログラミングをはじめました。<br/>
-      JavaScriptを触ることが多く、Vue.jsとfirestoreで簡易な掲示板サイトを作成したり、趣味で描いてるキャラクターのサイトをNext.jsで作成したりChrome拡張機能つくったりと、
-      今は面白そうと思ったことをしています。(下手の横好き)<br/>
+      JavaScriptを触ることが多く、Vue.jsとfirestoreで簡易な掲示板サイト、Next.jsでキャラクターのサイト、Chrome拡張機能など興味があるものに色々手をつけています。(下手の横好き)<br/>
           </p>
       </div>
     </div>
