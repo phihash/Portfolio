@@ -14,6 +14,7 @@ export default function Home() {
         <meta property="og:title" content="phihash" />
         <meta property="og:description" content="phihashのポートフォリオサイトです"/>
         <meta property="og:image" content="/images/hero.png" />
+        <meta name="description" content="phihashのポートフォリオサイトです"></meta>
         {/* 本当はだめ */}
       </Head>
 
@@ -21,7 +22,7 @@ export default function Home() {
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
     <div class="xl:w-4/5 mx-auto flex flex-wrap">
-      <Image class="lg:w-1/2 w-full lg:h-auto h-68 object-cover object-center rounded" src="/images/hero.png" width={500} height={300}></Image>
+      <Image class="lg:w-1/2 w-full lg:h-auto h-68 object-cover object-center rounded" alt={ヒーロー画像} src="/images/hero.png" width={500} height={300}></Image>
       {/* <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="https://dummyimage.com/780x600"/> */}
       <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
         <h1 class="text-gray-900 text-3xl title-font font-medium mt-1 mb-6">基本情報</h1>
