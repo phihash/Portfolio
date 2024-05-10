@@ -23,7 +23,6 @@ export default function Home() {
   <div class="container px-5 py-24 mx-auto">
     <div class="xl:w-4/5 mx-auto flex flex-wrap">
       <Image class="lg:w-1/2 w-full lg:h-auto h-68 object-cover object-center rounded" alt="ヒーロー画像" src="/images/hero.png" width={500} height={300}></Image>
-      {/* <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="https://dummyimage.com/780x600"/> */}
       <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
         <h1 class="text-gray-900 text-3xl title-font font-medium mt-1 mb-6">基本情報</h1>
         <h2 class="text-lg title-font font-bold tracking-widest">生年月日</h2>
@@ -41,9 +40,9 @@ export default function Home() {
 
       <h2 class="text-lg title-font font-bold mt-2  tracking-widest">そのほか</h2>
       <p class="leading-relaxed">
-      情報系ではなく医療系の大学生です。<br/>
+      ITと全然関係ないとこで働いてます。<br/>
       Webアプリを作成したくプログラミングをはじめました。<br/>
-      JavaScriptを触ることが多く、Vue.jsとfirestoreで簡易な掲示板サイト、Next.jsでキャラクターのサイト、Chrome拡張機能など興味があるものに色々手をつけています。(下手の横好き)<br/>
+      JavaScript,TypeScript,Next.jsを触ることが多いです。<br/>
           </p>
       </div>
     </div>

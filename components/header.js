@@ -10,10 +10,7 @@ export default function Header() {
       <span class="ml-1 text-xl font-bold">phihash</span>
     </a>
     </Link>
-    <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
-      <Link legacyBehavior href="/scrap"><a class="font-bold text-gray-900  mr-5 hover:text-gray-900">Scrap</a></Link>
-      <Link legacyBehavior href="/works"><a class="font-bold text-gray-900  mr-5 hover:text-gray-900">Works</a></Link>
-    </nav>
+  
 
   </div>
 </header>
