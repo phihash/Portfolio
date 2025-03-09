@@ -35,12 +35,11 @@ export default function Home() {
       </p>
       <h2 class="text-lg title-font font-bold mt-2  tracking-widest">使用言語</h2>
       <p class="leading-relaxed">
-      主にJavaScriptやRubyをさわっています。
+      主にJavaScriptをさわっています。
       </p>
 
       <h2 class="text-lg title-font font-bold mt-2  tracking-widest">そのほか</h2>
       <p class="leading-relaxed">
-      ITと全然関係ないとこで働いてます。<br/>
       Webアプリを作成したくプログラミングをはじめました。<br/>
       JavaScript,TypeScript,Next.jsを触ることが多いです。<br/>
           </p>
